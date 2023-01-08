@@ -1077,3 +1077,7 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+@media (max-width: 1200px){
+  body{
+  display: none;
+}}
